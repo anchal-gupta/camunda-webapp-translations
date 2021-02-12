@@ -35,7 +35,7 @@
     "DOUBLE" : "डबल" ,
     "DATE" : "दिनांक" ,
     "STRING" : "वर्ण" ,
-    " AUTH_LOGOUT_SUCCESSFUL " : " समापन सत्र सफल " ,
+    " AUTH_LOGOUT_SUCCESSFUL " : "समापन सत्र सफल " ,
     " AUTH_LOGOUT_THANKS " : " आज कैमुंडा का उपयोग करने के लिए धन्यवाद। एक महान {{dayConxtxt}}! " ,।
     " AUTH_DAY_CONTEXT_MORNING " : " कल " ,
     " AUTH_DAY_CONTEXT_DAY " : " दिन " ,
